@@ -56,10 +56,4 @@ I'm a 7th semester student of Administrative Computer Systems Engineering at Uni
   <a target="_blank" href="mailto:cristian36722@gmail.com">
       <img src="https://skillicons.dev/icons?i=gmail"></img>
   </a>
-  <a target="_blank" href="https://x.com/kano2908__">
-      <img src="https://skillicons.dev/icons?i=twitter"></img>
-  </a>
-  <a target="_blank" href="https://www.instagram.com/cano2908_/">
-      <img src="https://skillicons.dev/icons?i=instagram"></img>
-  </a>
 </p>
