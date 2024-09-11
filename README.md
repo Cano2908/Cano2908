@@ -19,7 +19,6 @@ I'm a 7th semester student of Administrative Computer Systems Engineering at Uni
     <img src="https://skillicons.dev/icons?i=css">
     <img src="https://skillicons.dev/icons?i=javascript">
     <img src="https://skillicons.dev/icons?i=java">
-    <img src="https://skillicons.dev/icons?i=php">
     <img src="https://skillicons.dev/icons?i=py">
 </p>
 
@@ -32,7 +31,6 @@ I'm a 7th semester student of Administrative Computer Systems Engineering at Uni
 <p>
     <img src="https://skillicons.dev/icons?i=mysql">
     <img src="https://skillicons.dev/icons?i=postgres">
-    <img src="https://skillicons.dev/icons?i=mongodb">
 </p>
 
 <h4>IDE</h4>
