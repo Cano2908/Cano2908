@@ -44,7 +44,6 @@ I'm a 7th semester student of Administrative Computer Systems Engineering at Uni
     <img src="https://skillicons.dev/icons?i=linux">
     <img src="https://skillicons.dev/icons?i=git">
     <img src="https://skillicons.dev/icons?i=postman">
-    <img src="https://skillicons.dev/icons?i=maven">
     <img src="https://skillicons.dev/icons?i=figma">
 </p>
 
